@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1404"
+   height="1872"
+   viewBox="0 0 155.00025 206.667"
+   version="1.1"
+   id="svg167"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Cover.svg"
+   inkscape:export-filename="Cover.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview169"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.5499273"
+     inkscape:cx="617.35433"
+     inkscape:cy="890.11766"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs164">
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect9410"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Utilise la règle de remplissage « fill-rule: evenodd » de la boîte de dialogue &lt;b&gt;Fond et contour&lt;/b&gt; en l'absence de résultat de mise à plat après une conversion en chemin." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9406">
+      <rect
+         style="display:none;fill:#e6e6e6;stroke:#000000;stroke-width:0.110399;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none"
+         id="rect9408"
+         width="89.864815"
+         height="51.777149"
+         x="32.512516"
+         y="40.130051"
+         d="M 32.512516,40.130051 H 122.37733 V 91.9072 H 32.512516 Z" />
+      <path
+         id="lpe_path-effect9410"
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.110399;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none"
+         class="powerclip"
+         d="M -4.9999998,4.9359134 H 160.00025 V 211.66699 H -4.9999998 Z M 32.512516,40.130051 V 91.9072 H 122.37733 V 40.130051 Z" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#cccccc;stroke:#808080;stroke-width:1.10399;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none"
+       id="rect527"
+       width="153.89626"
+       height="195.62709"
+       x="0.55199522"
+       y="10.487908"
+       clip-path="url(#clipPath9406)"
+       inkscape:path-effect="#path-effect9410"
+       d="M 0.55199522,10.487908 H 154.44825 V 206.115 H 0.55199522 Z" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:0.110399px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 42.393231,52.494743 H 112.49662"
+       id="path206" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:0.110399px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 42.393231,60.774671 H 112.49662"
+       id="path206-3" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:0.110399px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 42.393231,77.334526 H 112.49662"
+       id="path206-3-6" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:0.110399px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 42.393231,69.054599 H 112.49662"
+       id="path206-3-7" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:0.110399px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 42.393231,85.614454 H 112.49662"
+       id="path206-3-5" />
+    <rect
+       style="fill:none;stroke:#808080;stroke-width:1.10399;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none"
+       id="rect10262"
+       width="89.533623"
+       height="51.887547"
+       x="32.567715"
+       y="40.406048" />
+  </g>
+</svg>
